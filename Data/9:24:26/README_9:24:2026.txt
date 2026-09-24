@@ -1,0 +1,13 @@
+This experiment began with 0.5mL of inoculant in each vessel of Δ6 WT at an OD600 of 2.770. Shaking (150rpm) and Non-Shaking vessels with 50mL of LB were inoculated, with one negative control for each group of uninoculated LB in order to help determine the cause of noise in the data.
+
+Sensors correspond to vessels as marked below (name, port number):
+N- P0
+NR1 P1
+NR2 P3
+NR3 P2
+S- P7
+SR1 P4
+SR2 P5 (Excluded from graph because it fell off of table shaker)
+SR3 P6
+
+This is marked since it was found out in an open air test that each sensor has a different reading for the same absolute pressure. These above ports correspond to the same sensors from that open air test.
